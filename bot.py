@@ -4,8 +4,8 @@ import openai
 from moviepy.editor import AudioFileClip
 import concurrent.futures
 
-openai.api_key = "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"
-TELEGRAM_API_TOKEN = "6571312426:AAH5pw506xnRgAaaK4NuhXZXj_AB9gBre3c"
+openai.api_key = "Your OpenAI API Key"
+TELEGRAM_API_TOKEN = "Your Telegram API Token"
 
 # Multilingual description
 description_punjabi = "ਕ੍ਰਿਸ਼ੀ ਸਹਾਇਕ ਵਿੱਚ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ!\n" \
